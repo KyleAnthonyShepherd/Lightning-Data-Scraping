@@ -38,7 +38,7 @@ Oct 24, 2018
 #### Import BLock ####
 # the import block imports needed modules, and spits out a json file with
 # version numbers so the code can be repeatable
-file = open("LightningDataModuleVersions.json", 'w')
+file = open("ModuleVersions.json", 'w')
 modules = {}
 
 import os
