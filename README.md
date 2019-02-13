@@ -1,6 +1,6 @@
 # Lightning-Data-Scraping
 
-This code pulls Lightning Strike data from National Interagency Fire Center (NIFC).<br/>
+This code pulls Lightning Strike data from the National Interagency Fire Center (NIFC).<br/>
 This data has Strike Location, Current (the Strength), and Polarity of the strike.<br/>
 A bounding box in lat-long format is used to get the data of interest.<br/>
 Real time data must be collected, because historical data is limited.<br/>
